@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto',sans-serif !important;
+    background-color: rgb(250, 248, 241);
+}
+
+.bg-custom{
+    background-color: #faf3e9 ;
+}
+
+.bg-custom2{
+    background-color: rgb(194, 170, 191);
+}
+
+.text-custom{
+    color: rgb(74, 59, 78);
+}
